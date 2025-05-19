@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "eph+AS7VEHRd44eKbm8uRYj/3VGImFvxNaEguF8TElk=",
+  "Hash": "/JcXgl7weeed+Jk5isyYRQEsUOvg/uVz8yKqFFu1xW8=",
   "Source": "TravelBlog",
   "BasePath": "_content/TravelBlog",
   "Mode": "Default",
@@ -1212,6 +1212,25 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\site.css"
+    },
+    {
+      "Identity": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\css\\theme.css",
+      "SourceId": "TravelBlog",
+      "SourceType": "Discovered",
+      "ContentRoot": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\",
+      "BasePath": "_content/TravelBlog",
+      "RelativePath": "css/theme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\theme.css"
     },
     {
       "Identity": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\favicon.ico",
