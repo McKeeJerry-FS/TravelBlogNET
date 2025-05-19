@@ -4,7 +4,7 @@ using TravelBlog.Models;
 
 namespace TravelBlog.Data;
 
-public class ApplicationDbContext : IdentityDbContext<AppUser>
+public class ApplicationDbContext : IdentityDbContext<BlogUser>
 {
     public ApplicationDbContext(DbContextOptions<ApplicationDbContext> options)
         : base(options)
