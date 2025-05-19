@@ -1,8 +1,9 @@
 using System;
+using TravelBlog.Services.Interfaces;
 
 namespace TravelBlog.Services;
 
-public class BlogService
+public class BlogService : IBlogService
 {
 
 }
