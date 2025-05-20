@@ -11194,23 +11194,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jerry McKee Jr\\.nuget\\packages\\": {},
+    "C:\\Users\\jerry\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jerry McKee Jr\\source\\repos\\McKeeJerry-FS\\TravelBlogNET\\TravelBlog\\TravelBlog.csproj",
+      "projectUniqueName": "C:\\Users\\jerry\\Documents\\GitHub\\TravelBlogNET\\TravelBlog\\TravelBlog.csproj",
       "projectName": "TravelBlog",
-      "projectPath": "C:\\Users\\Jerry McKee Jr\\source\\repos\\McKeeJerry-FS\\TravelBlogNET\\TravelBlog\\TravelBlog.csproj",
-      "packagesPath": "C:\\Users\\Jerry McKee Jr\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jerry McKee Jr\\source\\repos\\McKeeJerry-FS\\TravelBlogNET\\TravelBlog\\obj\\",
+      "projectPath": "C:\\Users\\jerry\\Documents\\GitHub\\TravelBlogNET\\TravelBlog\\TravelBlog.csproj",
+      "packagesPath": "C:\\Users\\jerry\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jerry\\Documents\\GitHub\\TravelBlogNET\\TravelBlog\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\Jerry McKee Jr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jerry\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -11238,7 +11238,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.300"
+      "SdkAnalysisLevel": "9.0.200"
     },
     "frameworks": {
       "net7.0": {
@@ -11284,6 +11284,24 @@
         ],
         "assetTargetFallback": true,
         "warn": true,
+        "downloadDependencies": [
+          {
+            "name": "Microsoft.AspNetCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Host.win-x64",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.NETCore.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          },
+          {
+            "name": "Microsoft.WindowsDesktop.App.Ref",
+            "version": "[7.0.20, 7.0.20]"
+          }
+        ],
         "frameworkReferences": {
           "Microsoft.AspNetCore.App": {
             "privateAssets": "none"
@@ -11292,7 +11310,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
       }
     }
   }
