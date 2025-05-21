@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\TravelBlog.csproj": {}
   },
   "projects": {
@@ -12,9 +13,27 @@
         "projectPath": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\TravelBlog.csproj",
         "packagesPath": "C:\\Users\\jmckee\\.nuget\\packages\\",
         "outputPath": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\obj\\",
+=======
+    "C:\\Users\\jerry\\Documents\\GitHub\\TravelBlogNET\\TravelBlog\\TravelBlog.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\jerry\\Documents\\GitHub\\TravelBlogNET\\TravelBlog\\TravelBlog.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\jerry\\Documents\\GitHub\\TravelBlogNET\\TravelBlog\\TravelBlog.csproj",
+        "projectName": "TravelBlog",
+        "projectPath": "C:\\Users\\jerry\\Documents\\GitHub\\TravelBlogNET\\TravelBlog\\TravelBlog.csproj",
+        "packagesPath": "C:\\Users\\jerry\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\jerry\\Documents\\GitHub\\TravelBlogNET\\TravelBlog\\obj\\",
+>>>>>>> b8268f9dea9412997c31659aa90f9ae58540e913
         "projectStyle": "PackageReference",
         "configFilePaths": [
+<<<<<<< HEAD
           "C:\\Users\\jmckee\\AppData\\Roaming\\NuGet\\NuGet.Config",
+=======
+          "C:\\Users\\jerry\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+>>>>>>> b8268f9dea9412997c31659aa90f9ae58540e913
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -39,7 +58,12 @@
           "enableAudit": "true",
           "auditLevel": "low",
           "auditMode": "direct"
+<<<<<<< HEAD
         }
+=======
+        },
+        "SdkAnalysisLevel": "9.0.200"
+>>>>>>> b8268f9dea9412997c31659aa90f9ae58540e913
       },
       "frameworks": {
         "net7.0": {
@@ -93,7 +117,11 @@
               "privateAssets": "all"
             }
           },
+<<<<<<< HEAD
           "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.408\\RuntimeIdentifierGraph.json"
+=======
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.203\\RuntimeIdentifierGraph.json"
+>>>>>>> b8268f9dea9412997c31659aa90f9ae58540e913
         }
       }
     }
