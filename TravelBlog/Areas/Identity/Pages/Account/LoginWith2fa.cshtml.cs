@@ -17,13 +17,13 @@ namespace TravelBlog.Areas.Identity.Pages.Account
 {
     public class LoginWith2faModel : PageModel
     {
-        private readonly SignInManager<AppUser> _signInManager;
-        private readonly UserManager<AppUser> _userManager;
+        private readonly SignInManager<BlogUser> _signInManager;
+        private readonly UserManager<BlogUser> _userManager;
         private readonly ILogger<LoginWith2faModel> _logger;
 
         public LoginWith2faModel(
-            SignInManager<AppUser> signInManager,
-            UserManager<AppUser> userManager,
+            SignInManager<BlogUser> signInManager,
+            UserManager<BlogUser> userManager,
             ILogger<LoginWith2faModel> logger)
         {
             _signInManager = signInManager;

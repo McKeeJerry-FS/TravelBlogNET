@@ -18,13 +18,13 @@ namespace TravelBlog.Areas.Identity.Pages.Account.Manage
 {
     public class EmailModel : PageModel
     {
-        private readonly UserManager<AppUser> _userManager;
-        private readonly SignInManager<AppUser> _signInManager;
+        private readonly UserManager<BlogUser> _userManager;
+        private readonly SignInManager<BlogUser> _signInManager;
         private readonly IEmailSender _emailSender;
 
         public EmailModel(
-            UserManager<AppUser> userManager,
-            SignInManager<AppUser> signInManager,
+            UserManager<BlogUser> userManager,
+            SignInManager<BlogUser> signInManager,
             IEmailSender emailSender)
         {
             _userManager = userManager;
@@ -74,7 +74,7 @@ namespace TravelBlog.Areas.Identity.Pages.Account.Manage
             public string NewEmail { get; set; }
         }
 
-        private async Task LoadAsync(AppUser user)
+        private async Task LoadAsync(BlogUser user)
         {
             var email = await _userManager.GetEmailAsync(user);
             Email = email;

@@ -75,43 +75,54 @@ public class DataUtility
 
         try
         {
-            BlogUser? adminUser = new()
+            // Admin
+            var adminUser = await userManager.FindByEmailAsync(adminEmail!);
+            if (adminUser == null)
             {
-                UserName = adminEmail,
-                Email = adminEmail,
-                FirstName = "Jerry",
-                LastName = "McKee",
-                EmailConfirmed = true
-            };
-
-
-            BlogUser? blogUser = await userManager.FindByEmailAsync(adminEmail!);
-
-
-            if (blogUser == null)
+                adminUser = new BlogUser
+                {
+                    UserName = adminEmail,
+                    Email = adminEmail,
+                    FirstName = "Jerry",
+                    LastName = "McKee",
+                    EmailConfirmed = true
+                };
+                var result = await userManager.CreateAsync(adminUser, adminPassword!);
+                if (!result.Succeeded)
+                {
+                    // Optionally log errors here
+                }
+            }
+            // Always get the user from the DB before adding to role
+            adminUser = await userManager.FindByEmailAsync(adminEmail!);
+            if (adminUser != null && !await userManager.IsInRoleAsync(adminUser, _adminRole!))
             {
-                await userManager.CreateAsync(adminUser, adminPassword!);
                 await userManager.AddToRoleAsync(adminUser, _adminRole!);
             }
 
-
-            BlogUser? moderatorUser = new()
+            // Moderator
+            var moderatorUser = await userManager.FindByEmailAsync(moderatorEmail!);
+            if (moderatorUser == null)
             {
-                UserName = moderatorEmail,
-                Email = moderatorEmail,
-                FirstName = "John",
-                LastName = "Smith",
-                EmailConfirmed = true
-            };
-
-            blogUser = await userManager.FindByEmailAsync(moderatorEmail!);
-
-            if (blogUser == null)
+                moderatorUser = new BlogUser
+                {
+                    UserName = moderatorEmail,
+                    Email = moderatorEmail,
+                    FirstName = "John",
+                    LastName = "Smith",
+                    EmailConfirmed = true
+                };
+                var result = await userManager.CreateAsync(moderatorUser, moderatorPassword!);
+                if (!result.Succeeded)
+                {
+                    // Optionally log errors here
+                }
+            }
+            moderatorUser = await userManager.FindByEmailAsync(moderatorEmail!);
+            if (moderatorUser != null && !await userManager.IsInRoleAsync(moderatorUser, _moderatorRole!))
             {
-                await userManager.CreateAsync(moderatorUser, moderatorPassword!);
                 await userManager.AddToRoleAsync(moderatorUser, _moderatorRole!);
             }
-
         }
         catch (Exception ex)
         {
@@ -122,6 +133,5 @@ public class DataUtility
             Console.ResetColor();
             throw;
         }
-
     }
 }

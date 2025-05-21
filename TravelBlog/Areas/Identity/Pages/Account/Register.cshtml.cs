@@ -24,17 +24,17 @@ namespace TravelBlog.Areas.Identity.Pages.Account
 {
     public class RegisterModel : PageModel
     {
-        private readonly SignInManager<AppUser> _signInManager;
-        private readonly UserManager<AppUser> _userManager;
-        private readonly IUserStore<AppUser> _userStore;
-        private readonly IUserEmailStore<AppUser> _emailStore;
+        private readonly SignInManager<BlogUser> _signInManager;
+        private readonly UserManager<BlogUser> _userManager;
+        private readonly IUserStore<BlogUser> _userStore;
+        private readonly IUserEmailStore<BlogUser> _emailStore;
         private readonly ILogger<RegisterModel> _logger;
         private readonly IEmailSender _emailSender;
 
         public RegisterModel(
-            UserManager<AppUser> userManager,
-            IUserStore<AppUser> userStore,
-            SignInManager<AppUser> signInManager,
+            UserManager<BlogUser> userManager,
+            IUserStore<BlogUser> userStore,
+            SignInManager<BlogUser> signInManager,
             ILogger<RegisterModel> logger,
             IEmailSender emailSender)
         {
@@ -169,27 +169,27 @@ namespace TravelBlog.Areas.Identity.Pages.Account
             return Page();
         }
 
-        private AppUser CreateUser()
+        private BlogUser CreateUser()
         {
             try
             {
-                return Activator.CreateInstance<AppUser>();
+                return Activator.CreateInstance<BlogUser>();
             }
             catch
             {
-                throw new InvalidOperationException($"Can't create an instance of '{nameof(AppUser)}'. " +
-                    $"Ensure that '{nameof(AppUser)}' is not an abstract class and has a parameterless constructor, or alternatively " +
+                throw new InvalidOperationException($"Can't create an instance of '{nameof(BlogUser)}'. " +
+                    $"Ensure that '{nameof(BlogUser)}' is not an abstract class and has a parameterless constructor, or alternatively " +
                     $"override the register page in /Areas/Identity/Pages/Account/Register.cshtml");
             }
         }
 
-        private IUserEmailStore<AppUser> GetEmailStore()
+        private IUserEmailStore<BlogUser> GetEmailStore()
         {
             if (!_userManager.SupportsUserEmail)
             {
                 throw new NotSupportedException("The default UI requires a user store with email support.");
             }
-            return (IUserEmailStore<AppUser>)_userStore;
+            return (IUserEmailStore<BlogUser>)_userStore;
         }
     }
 }

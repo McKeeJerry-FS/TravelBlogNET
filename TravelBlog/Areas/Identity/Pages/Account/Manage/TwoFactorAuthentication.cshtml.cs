@@ -14,12 +14,12 @@ namespace TravelBlog.Areas.Identity.Pages.Account.Manage
 {
     public class TwoFactorAuthenticationModel : PageModel
     {
-        private readonly UserManager<AppUser> _userManager;
-        private readonly SignInManager<AppUser> _signInManager;
+        private readonly UserManager<BlogUser> _userManager;
+        private readonly SignInManager<BlogUser> _signInManager;
         private readonly ILogger<TwoFactorAuthenticationModel> _logger;
 
         public TwoFactorAuthenticationModel(
-            UserManager<AppUser> userManager, SignInManager<AppUser> signInManager, ILogger<TwoFactorAuthenticationModel> logger)
+            UserManager<BlogUser> userManager, SignInManager<BlogUser> signInManager, ILogger<TwoFactorAuthenticationModel> logger)
         {
             _userManager = userManager;
             _signInManager = signInManager;
