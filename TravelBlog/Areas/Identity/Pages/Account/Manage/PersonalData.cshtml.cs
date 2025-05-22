@@ -12,11 +12,11 @@ namespace TravelBlog.Areas.Identity.Pages.Account.Manage
 {
     public class PersonalDataModel : PageModel
     {
-        private readonly UserManager<AppUser> _userManager;
+        private readonly UserManager<BlogUser> _userManager;
         private readonly ILogger<PersonalDataModel> _logger;
 
         public PersonalDataModel(
-            UserManager<AppUser> userManager,
+            UserManager<BlogUser> userManager,
             ILogger<PersonalDataModel> logger)
         {
             _userManager = userManager;

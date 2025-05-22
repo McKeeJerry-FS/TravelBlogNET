@@ -15,13 +15,13 @@ namespace TravelBlog.Areas.Identity.Pages.Account.Manage
 {
     public class DeletePersonalDataModel : PageModel
     {
-        private readonly UserManager<AppUser> _userManager;
-        private readonly SignInManager<AppUser> _signInManager;
+        private readonly UserManager<BlogUser> _userManager;
+        private readonly SignInManager<BlogUser> _signInManager;
         private readonly ILogger<DeletePersonalDataModel> _logger;
 
         public DeletePersonalDataModel(
-            UserManager<AppUser> userManager,
-            SignInManager<AppUser> signInManager,
+            UserManager<BlogUser> userManager,
+            SignInManager<BlogUser> signInManager,
             ILogger<DeletePersonalDataModel> logger)
         {
             _userManager = userManager;

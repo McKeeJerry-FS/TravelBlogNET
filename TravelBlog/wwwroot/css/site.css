@@ -81,8 +81,13 @@ body {
     align-items: center;
 }
 
+.carousel-inner,
+.carousel-item {
+    height: 30rem;
+}
+
 /* Add this to your site CSS file (e.g., site.css) */
 .carousel-img {
-    height: 70rem; /* Set your desired height */
-    object-fit: cover; /* Optional: crops images to fill the area */
+    height: 30rem !important; /* Set your desired height */
+    object-fit: cover; /*Optional: crops images to fill the area*/
 }

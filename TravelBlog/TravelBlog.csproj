@@ -22,8 +22,10 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Views\Categories\" />
+    <Folder Include="Views\Comments\" />
+    <Folder Include="Views\Tags\" />
     <Folder Include="wwwroot\assets\" />
-    <Folder Include="wwwroot\img\" />
   </ItemGroup>
 
 </Project>

@@ -24,17 +24,17 @@ namespace TravelBlog.Areas.Identity.Pages.Account
     [AllowAnonymous]
     public class ExternalLoginModel : PageModel
     {
-        private readonly SignInManager<AppUser> _signInManager;
-        private readonly UserManager<AppUser> _userManager;
-        private readonly IUserStore<AppUser> _userStore;
-        private readonly IUserEmailStore<AppUser> _emailStore;
+        private readonly SignInManager<BlogUser> _signInManager;
+        private readonly UserManager<BlogUser> _userManager;
+        private readonly IUserStore<BlogUser> _userStore;
+        private readonly IUserEmailStore<BlogUser> _emailStore;
         private readonly IEmailSender _emailSender;
         private readonly ILogger<ExternalLoginModel> _logger;
 
         public ExternalLoginModel(
-            SignInManager<AppUser> signInManager,
-            UserManager<AppUser> userManager,
-            IUserStore<AppUser> userStore,
+            SignInManager<BlogUser> signInManager,
+            UserManager<BlogUser> userManager,
+            IUserStore<BlogUser> userStore,
             ILogger<ExternalLoginModel> logger,
             IEmailSender emailSender)
         {
@@ -198,27 +198,27 @@ namespace TravelBlog.Areas.Identity.Pages.Account
             return Page();
         }
 
-        private AppUser CreateUser()
+        private BlogUser CreateUser()
         {
             try
             {
-                return Activator.CreateInstance<AppUser>();
+                return Activator.CreateInstance<BlogUser>();
             }
             catch
             {
-                throw new InvalidOperationException($"Can't create an instance of '{nameof(AppUser)}'. " +
-                    $"Ensure that '{nameof(AppUser)}' is not an abstract class and has a parameterless constructor, or alternatively " +
+                throw new InvalidOperationException($"Can't create an instance of '{nameof(BlogUser)}'. " +
+                    $"Ensure that '{nameof(BlogUser)}' is not an abstract class and has a parameterless constructor, or alternatively " +
                     $"override the external login page in /Areas/Identity/Pages/Account/ExternalLogin.cshtml");
             }
         }
 
-        private IUserEmailStore<AppUser> GetEmailStore()
+        private IUserEmailStore<BlogUser> GetEmailStore()
         {
             if (!_userManager.SupportsUserEmail)
             {
                 throw new NotSupportedException("The default UI requires a user store with email support.");
             }
-            return (IUserEmailStore<AppUser>)_userStore;
+            return (IUserEmailStore<BlogUser>)_userStore;
         }
     }
 }

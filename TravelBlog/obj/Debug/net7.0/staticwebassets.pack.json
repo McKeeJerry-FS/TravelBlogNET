@@ -5,6 +5,1790 @@
       "PackagePath": "staticwebassets\\TravelBlog.bundle.scp.css"
     },
     {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\css\\plugins\\plugins.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\plugins.css"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\css\\plugins\\plugins.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\plugins\\plugins.min.css"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\css\\style.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.css"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\css\\style.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\style.min.css"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\css\\vendor\\base.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\base.css"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\css\\vendor\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\bootstrap.min.css"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\css\\vendor\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\font-awesome.css"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\css\\vendor\\slick-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\slick-theme.css"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\css\\vendor\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\slick.css"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\css\\vendor\\vendor.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\vendor.css"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\css\\vendor\\vendor.min.css",
+      "PackagePath": "staticwebassets\\assets\\css\\vendor\\vendor.min.css"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-brands-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.eot"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-brands-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.svg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-brands-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.ttf"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-brands-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-brands-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-brands-400.woff2"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-duotone-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-900.eot"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-duotone-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-900.svg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-duotone-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-900.ttf"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-duotone-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-900.woff"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-duotone-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-duotone-900.woff2"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-light-300.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.eot"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-light-300.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.svg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-light-300.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.ttf"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-light-300.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.woff"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-light-300.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-light-300.woff2"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-regular-400.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.eot"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-regular-400.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.svg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-regular-400.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.ttf"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-regular-400.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-regular-400.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-regular-400.woff2"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-solid-900.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.eot"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-solid-900.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.svg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-solid-900.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.ttf"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-solid-900.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\fa-solid-900.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fa-solid-900.woff2"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\slick.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.eot"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\slick.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.svg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\slick.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.ttf"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\fonts\\slick.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\slick.woff"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\add-banner\\banner-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\add-banner\\banner-01.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\add-banner\\banner-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\add-banner\\banner-02.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\add-banner\\banner-03.png",
+      "PackagePath": "staticwebassets\\assets\\images\\add-banner\\banner-03.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\ajax-loader.gif",
+      "PackagePath": "staticwebassets\\assets\\images\\ajax-loader.gif"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\banner\\post-hover-image-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\post-hover-image-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\banner\\post-hover-image-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\post-hover-image-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\banner\\post-hover-image-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\banner\\post-hover-image-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\bg\\bg-image-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-1.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\bg\\bg-image-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-2.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\bg\\bg-image-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-3.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\bg\\bg-image-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\bg\\bg-image-4.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\favicon.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\icons\\arrow-icon.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\arrow-icon.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\icons\\light-close.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\light-close.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\icons\\shape-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\shape-01.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\icons\\shape-02.png",
+      "PackagePath": "staticwebassets\\assets\\images\\icons\\shape-02.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\logo\\Red.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\Red.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\logo\\logo-black.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-black.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\logo\\logo-white.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-white.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\logo\\logo-white2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\logo\\logo-white2.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\others\\404.png",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\404.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\others\\add-01.png",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\add-01.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\others\\author.png",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\author.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\others\\maintenence.png",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\maintenence.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\others\\mega-post-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\mega-post-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\others\\mega-post-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\mega-post-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\others\\mega-post-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\mega-post-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\others\\mega-post-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\mega-post-04.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\others\\newsletter.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\others\\newsletter.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\author\\author-b1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\author\\author-b1.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\author\\author-b2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\author\\author-b2.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\author\\author-b3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\author\\author-b3.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\author\\author-image-1.png",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\author\\author-image-1.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\author\\author-image-2.png",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\author\\author-image-2.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\author\\author-image-3.png",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\author\\author-image-3.png"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\category-image-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\category-image-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\category-image-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\category-image-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\category-image-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\category-image-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\category-image-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\category-image-04.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\gallery-post-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\gallery-post-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\gallery-post-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\gallery-post-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\gallery-post-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\gallery-post-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\lifestyle-grid-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\lifestyle-grid-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\lifestyle-grid-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\lifestyle-grid-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\lifestyle-grid-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\lifestyle-grid-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\lifestyle-post-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\lifestyle-post-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\lifestyle-post-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\lifestyle-post-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\lifestyle-post-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\lifestyle-post-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\lifestyle-post-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\lifestyle-post-04.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\lifestyle-post-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\lifestyle-post-05.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\lifestyle-post-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\lifestyle-post-06.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-column-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-column-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-column-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-column-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-column-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-column-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-column-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-column-04.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-column-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-column-05.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-column-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-column-06.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-column-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-column-07.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-column-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-column-08.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-column-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-column-09.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-column-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-column-10.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-column-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-column-11.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-dark-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-dark-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-dark-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-dark-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-dark-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-dark-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-dark-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-dark-04.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-dark-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-dark-05.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-grid-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-grid-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-grid-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-grid-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-grid-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-grid-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-grid-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-grid-04.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-grid-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-grid-05.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-grid-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-grid-06.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-grid-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-grid-07.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-grid-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-grid-08.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-grid-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-grid-09.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-grid-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-grid-10.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-grid-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-grid-11.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-grid-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-grid-12.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-images-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-images-1.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-images-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-images-2.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-list-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-list-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-list-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-list-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-list-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-list-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-list-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-list-04.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-list-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-list-05.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-list-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-list-06.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-list-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-list-07.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-list-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-list-08.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-list-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-list-09.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-list-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-list-10.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-list-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-list-11.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-list-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-list-12.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-list-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-list-13.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-list-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-list-14.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-list-15.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-list-15.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-seo-grid-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-seo-grid-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-seo-sm-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-seo-sm-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-seo-sm-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-seo-sm-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-seo-sm-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-seo-sm-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-seo-sm-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-seo-sm-04.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-sm-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-sm-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-sm-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-sm-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-sm-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-sm-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-sm-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-sm-04.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-sm-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-sm-05.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-sm-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-sm-06.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-tech-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-tech-06.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-tech-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-tech-07.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-tech-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-tech-08.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-tech-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-tech-09.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-tech-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-tech-10.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-tech-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-tech-11.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-tech-12.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-tech-12.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-tech-13.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-tech-13.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-tech-14.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-tech-14.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-tect-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-tect-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-tect-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-tect-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-tect-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-tect-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-tect-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-tect-04.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-tect-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-tect-05.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-test-tech-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-test-tech-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-test-tech-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-test-tech-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-test-tech-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-test-tech-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-test-tech-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-test-tech-04.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\post-test-tech-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\post-test-tech-05.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\trend-post-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\trend-post-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\trend-post-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\trend-post-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\trend-post-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\trend-post-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-images\\trend-post-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-images\\trend-post-04.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\ads-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\ads-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\featured-post-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\featured-post-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\featured-post-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\featured-post-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\post-md-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\post-md-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\post-md-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\post-md-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\post-md-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\post-md-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\post-sidebar-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\post-sidebar-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\post-sidebar-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\post-sidebar-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\post-sidebar-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\post-sidebar-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\post-single-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\post-single-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\post-single-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\post-single-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\post-single-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\post-single-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\post-single-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\post-single-04.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\post-single-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\post-single-05.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\post-single-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\post-single-06.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\post-single-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\post-single-07.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\stories-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\stories-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\stories-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\stories-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\stories-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\stories-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\post-single\\stories-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\post-single\\stories-04.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\blog-sm-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\blog-sm-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\blog-sm-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\blog-sm-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\blog-sm-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\blog-sm-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\blog-sm-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\blog-sm-04.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\blog-sm-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\blog-sm-05.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\blog-sm-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\blog-sm-06.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\blog-sm-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\blog-sm-07.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\blog-sm-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\blog-sm-08.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\blog-sm-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\blog-sm-09.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\blog-sm-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\blog-sm-10.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\instagram-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\instagram-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\instagram-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\instagram-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\instagram-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\instagram-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\instagram-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\instagram-04.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\instagram-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\instagram-05.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\instagram-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\instagram-06.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\instagram-md-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\instagram-md-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\instagram-md-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\instagram-md-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\instagram-md-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\instagram-md-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\instagram-md-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\instagram-md-04.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\instagram-md-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\instagram-md-05.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\instagram-md-06.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\instagram-md-06.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\instagram-md-07.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\instagram-md-07.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\instagram-md-08.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\instagram-md-08.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\instagram-md-09.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\instagram-md-09.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\instagram-md-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\instagram-md-10.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\instagram-md-11.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\instagram-md-11.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\liststyle-sm-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\liststyle-sm-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\liststyle-sm-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\liststyle-sm-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\liststyle-sm-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\liststyle-sm-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\liststyle-sm-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\liststyle-sm-04.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\post-seo-list-01.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\post-seo-list-01.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\post-seo-list-02.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\post-seo-list-02.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\post-seo-list-03.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\post-seo-list-03.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\post-seo-list-04.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\post-seo-list-04.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\images\\small-images\\post-seo-list-05.jpg",
+      "PackagePath": "staticwebassets\\assets\\images\\small-images\\post-seo-list-05.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\js\\main.js",
+      "PackagePath": "staticwebassets\\assets\\js\\main.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\js\\vendor\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\bootstrap.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\js\\vendor\\contactform.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\contactform.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\js\\vendor\\gsap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\gsap.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\js\\vendor\\jquery.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\js\\vendor\\jquery.style.switcher.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\jquery.style.switcher.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\js\\vendor\\js.cookie.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\js.cookie.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\js\\vendor\\modernizr.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\modernizr.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\js\\vendor\\slick.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\slick.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\js\\vendor\\tweenmax.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\tweenmax.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\js\\vendor\\vendor.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\vendor.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\js\\vendor\\vendor.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\vendor\\vendor.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\maps\\style.min.css.map",
+      "PackagePath": "staticwebassets\\assets\\maps\\style.min.css.map"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\default\\_animations.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_animations.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\default\\_common.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_common.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\default\\_extend.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_extend.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\default\\_forms.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_forms.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\default\\_mixins.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_mixins.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\default\\_reset.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_reset.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\default\\_shortcode.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_shortcode.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\default\\_spacing.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_spacing.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\default\\_test.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_test.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\default\\_typography.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_typography.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\default\\_variables.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\default\\_variables.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\elements\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_breadcrumb.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\elements\\_button.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_button.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\elements\\_category.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_category.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\elements\\_contact.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_contact.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\elements\\_cursor.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_cursor.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\elements\\_scrolltotop.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_scrolltotop.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\elements\\_section-title.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_section-title.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\elements\\_slick.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_slick.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\elements\\_social.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_social.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\elements\\_tab.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_tab.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\elements\\_video.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\elements\\_video.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\footer\\_color.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\footer\\_color.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\footer\\_dark.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\footer\\_dark.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\footer\\_footer.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\footer\\_footer.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\header\\_header.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\header\\_header.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\header\\_mobilemenu.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\header\\_mobilemenu.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\header\\_nav.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\header\\_nav.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\header\\_subscribe.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\header\\_subscribe.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\post\\_comment.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\post\\_comment.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\post\\_post-details.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\post\\_post-details.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\post\\_post-format.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\post\\_post-format.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\post\\_post-list.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\post\\_post-list.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\post\\_post-stories.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\post\\_post-stories.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\post\\_post.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\post\\_post.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\post\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\post\\_sidebar.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\style.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\template\\_animation-image-hover.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\template\\_animation-image-hover.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\template\\_author.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\template\\_author.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\template\\_banner.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\template\\_banner.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\template\\_color.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\template\\_color.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\template\\_darkversion.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\template\\_darkversion.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\template\\_error.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\template\\_error.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\template\\_instagram.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\template\\_instagram.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\template\\_maintanence.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\template\\_maintanence.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\scss\\variation-page\\_color.scss",
+      "PackagePath": "staticwebassets\\assets\\scss\\variation-page\\_color.scss"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\font\\summernote.eot",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\font\\summernote.eot"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\font\\summernote.ttf",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\font\\summernote.ttf"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\font\\summernote.woff",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\font\\summernote.woff"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\font\\summernote.woff2",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\font\\summernote.woff2"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ar-AR.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ar-AR.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ar-AR.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ar-AR.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ar-AR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ar-AR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-az-AZ.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-az-AZ.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-az-AZ.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-az-AZ.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-az-AZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-az-AZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-bg-BG.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-bg-BG.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-bg-BG.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-bg-BG.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-bg-BG.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-bg-BG.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ca-ES.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ca-ES.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ca-ES.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ca-ES.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ca-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ca-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-cs-CZ.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-cs-CZ.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-cs-CZ.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-cs-CZ.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-cs-CZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-cs-CZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-da-DK.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-da-DK.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-da-DK.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-da-DK.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-da-DK.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-da-DK.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-de-DE.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-de-DE.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-de-DE.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-de-DE.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-de-DE.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-de-DE.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-el-GR.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-el-GR.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-el-GR.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-el-GR.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-el-GR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-el-GR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-es-ES.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-es-ES.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-es-ES.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-es-ES.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-es-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-es-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-es-EU.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-es-EU.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-es-EU.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-es-EU.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-es-EU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-es-EU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-fa-IR.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-fa-IR.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-fa-IR.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-fa-IR.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-fa-IR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-fa-IR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-fi-FI.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-fi-FI.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-fi-FI.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-fi-FI.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-fi-FI.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-fi-FI.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-fr-FR.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-fr-FR.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-fr-FR.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-fr-FR.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-fr-FR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-fr-FR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-gl-ES.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-gl-ES.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-gl-ES.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-gl-ES.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-gl-ES.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-gl-ES.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-he-IL.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-he-IL.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-he-IL.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-he-IL.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-he-IL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-he-IL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-hr-HR.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-hr-HR.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-hr-HR.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-hr-HR.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-hr-HR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-hr-HR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-hu-HU.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-hu-HU.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-hu-HU.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-hu-HU.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-hu-HU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-hu-HU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-id-ID.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-id-ID.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-id-ID.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-id-ID.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-id-ID.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-id-ID.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-it-IT.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-it-IT.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-it-IT.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-it-IT.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-it-IT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-it-IT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ja-JP.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ja-JP.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ja-JP.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ja-JP.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ja-JP.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ja-JP.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ko-KR.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ko-KR.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ko-KR.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ko-KR.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ko-KR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ko-KR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-lt-LT.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-lt-LT.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-lt-LT.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-lt-LT.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-lt-LT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-lt-LT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-lt-LV.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-lt-LV.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-lt-LV.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-lt-LV.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-lt-LV.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-lt-LV.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-mn-MN.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-mn-MN.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-mn-MN.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-mn-MN.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-mn-MN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-mn-MN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-nb-NO.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-nb-NO.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-nb-NO.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-nb-NO.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-nb-NO.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-nb-NO.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-nl-NL.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-nl-NL.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-nl-NL.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-nl-NL.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-nl-NL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-nl-NL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-pl-PL.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-pl-PL.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-pl-PL.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-pl-PL.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-pl-PL.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-pl-PL.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-pt-BR.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-pt-BR.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-pt-BR.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-pt-BR.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-pt-BR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-pt-BR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-pt-PT.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-pt-PT.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-pt-PT.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-pt-PT.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-pt-PT.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-pt-PT.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ro-RO.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ro-RO.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ro-RO.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ro-RO.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ro-RO.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ro-RO.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ru-RU.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ru-RU.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ru-RU.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ru-RU.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ru-RU.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ru-RU.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-sk-SK.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-sk-SK.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-sk-SK.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-sk-SK.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-sk-SK.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-sk-SK.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-sl-SI.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-sl-SI.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-sl-SI.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-sl-SI.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-sl-SI.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-sl-SI.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-sr-RS-Latin.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-sr-RS-Latin.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-sr-RS-Latin.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-sr-RS-Latin.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-sr-RS-Latin.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-sr-RS-Latin.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-sr-RS.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-sr-RS.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-sr-RS.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-sr-RS.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-sr-RS.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-sr-RS.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-sv-SE.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-sv-SE.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-sv-SE.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-sv-SE.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-sv-SE.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-sv-SE.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ta-IN.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ta-IN.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ta-IN.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ta-IN.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-ta-IN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-ta-IN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-th-TH.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-th-TH.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-th-TH.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-th-TH.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-th-TH.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-th-TH.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-tr-TR.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-tr-TR.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-tr-TR.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-tr-TR.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-tr-TR.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-tr-TR.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-uk-UA.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-uk-UA.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-uk-UA.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-uk-UA.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-uk-UA.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-uk-UA.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-uz-UZ.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-uz-UZ.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-uz-UZ.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-uz-UZ.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-uz-UZ.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-uz-UZ.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-vi-VN.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-vi-VN.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-vi-VN.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-vi-VN.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-vi-VN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-vi-VN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-zh-CN.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-zh-CN.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-zh-CN.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-zh-CN.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-zh-CN.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-zh-CN.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-zh-TW.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-zh-TW.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-zh-TW.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-zh-TW.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\lang\\summernote-zh-TW.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\lang\\summernote-zh-TW.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\plugin\\databasic\\summernote-ext-databasic.css",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\plugin\\databasic\\summernote-ext-databasic.css"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\plugin\\databasic\\summernote-ext-databasic.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\plugin\\databasic\\summernote-ext-databasic.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\plugin\\hello\\summernote-ext-hello.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\plugin\\hello\\summernote-ext-hello.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\plugin\\specialchars\\summernote-ext-specialchars.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\plugin\\specialchars\\summernote-ext-specialchars.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote-bs4.css",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote-bs4.css"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote-bs4.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote-bs4.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote-bs4.js.map",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote-bs4.js.map"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote-bs4.min.css",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote-bs4.min.css"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote-bs4.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote-bs4.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote-bs4.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote-bs4.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote-bs4.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote-bs4.min.js.map"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote-lite.css",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote-lite.css"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote-lite.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote-lite.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote-lite.js.map",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote-lite.js.map"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote-lite.min.css",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote-lite.min.css"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote-lite.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote-lite.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote-lite.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote-lite.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote-lite.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote-lite.min.js.map"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote.css",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote.css"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote.js.map",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote.js.map"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote.min.css",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote.min.css"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote.min.js",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote.min.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote.min.js.LICENSE.txt",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote.min.js.LICENSE.txt"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\assets\\summernote-0.8.18-dist\\summernote.min.js.map",
+      "PackagePath": "staticwebassets\\assets\\summernote-0.8.18-dist\\summernote.min.js.map"
+    },
+    {
       "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
@@ -15,6 +1799,18 @@
     {
       "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\img\\12d-window-seat-0066.jpg",
+      "PackagePath": "staticwebassets\\img\\12d-window-seat-0066.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\img\\4899_Disney2023LandingPage_2024_40268216-ecff-4596-b011-a889255e75d2.jpg",
+      "PackagePath": "staticwebassets\\img\\4899_Disney2023LandingPage_2024_40268216-ecff-4596-b011-a889255e75d2.jpg"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\img\\mountain_pass.jpg",
+      "PackagePath": "staticwebassets\\img\\mountain_pass.jpg"
     },
     {
       "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\js\\site.js",
@@ -247,6 +2043,338 @@
     {
       "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\LICENSE.md",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\LICENSE.md"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\README.md",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\README.md"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\ckeditor.d.ts",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\ckeditor.d.ts"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\ckeditor.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\ckeditor.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\ckeditor.js.map",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\ckeditor.js.map"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\af.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\af.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\ar.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\ar.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\ast.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\ast.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\az.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\az.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\bg.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\bg.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\bn.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\bn.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\bs.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\bs.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\ca.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\ca.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\cs.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\cs.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\da.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\da.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\de-ch.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\de-ch.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\de.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\de.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\el.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\el.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\en-au.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\en-au.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\en-gb.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\en-gb.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\eo.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\eo.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\es-co.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\es-co.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\es.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\es.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\et.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\et.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\eu.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\eu.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\fa.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\fa.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\fi.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\fi.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\fr.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\fr.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\gl.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\gl.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\gu.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\gu.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\he.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\he.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\hi.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\hi.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\hr.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\hr.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\hu.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\hu.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\hy.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\hy.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\id.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\id.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\it.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\it.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\ja.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\ja.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\jv.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\jv.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\km.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\km.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\kn.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\kn.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\ko.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\ko.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\ku.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\ku.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\lt.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\lt.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\lv.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\lv.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\ms.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\ms.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\nb.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\nb.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\ne.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\ne.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\nl.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\nl.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\no.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\no.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\oc.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\oc.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\pl.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\pl.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\pt-br.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\pt-br.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\pt.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\pt.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\ro.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\ro.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\ru.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\ru.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\si.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\si.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\sk.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\sk.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\sl.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\sl.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\sq.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\sq.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\sr-latn.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\sr-latn.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\sr.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\sr.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\sv.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\sv.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\th.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\th.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\tk.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\tk.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\tr.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\tr.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\tt.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\tt.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\ug.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\ug.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\uk.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\uk.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\ur.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\ur.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\uz.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\uz.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\vi.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\vi.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\zh-cn.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\zh-cn.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\build\\translations\\zh.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\build\\translations\\zh.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\package.json",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\package.json"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\sample\\index.html",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\sample\\index.html"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\sample\\script.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\sample\\script.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\sample\\styles.css",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\sample\\styles.css"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\src\\ckeditor.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\src\\ckeditor.js"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\src\\ckeditor.js.map",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\src\\ckeditor.js.map"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\src\\ckeditor.ts",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\src\\ckeditor.ts"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\tsconfig.json",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\tsconfig.json"
+    },
+    {
+      "Id": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\wwwroot\\vendor\\ckeditor5-40-2\\webpack.config.js",
+      "PackagePath": "staticwebassets\\vendor\\ckeditor5-40-2\\webpack.config.js"
     },
     {
       "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TravelBlog.Microsoft.AspNetCore.StaticWebAssets.props",

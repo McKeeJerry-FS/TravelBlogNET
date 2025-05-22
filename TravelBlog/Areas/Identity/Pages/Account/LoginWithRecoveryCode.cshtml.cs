@@ -15,13 +15,13 @@ namespace TravelBlog.Areas.Identity.Pages.Account
 {
     public class LoginWithRecoveryCodeModel : PageModel
     {
-        private readonly SignInManager<AppUser> _signInManager;
-        private readonly UserManager<AppUser> _userManager;
+        private readonly SignInManager<BlogUser> _signInManager;
+        private readonly UserManager<BlogUser> _userManager;
         private readonly ILogger<LoginWithRecoveryCodeModel> _logger;
 
         public LoginWithRecoveryCodeModel(
-            SignInManager<AppUser> signInManager,
-            UserManager<AppUser> userManager,
+            SignInManager<BlogUser> signInManager,
+            UserManager<BlogUser> userManager,
             ILogger<LoginWithRecoveryCodeModel> logger)
         {
             _signInManager = signInManager;
