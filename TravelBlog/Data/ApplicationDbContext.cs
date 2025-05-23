@@ -17,4 +17,5 @@ public class ApplicationDbContext : IdentityDbContext<BlogUser>
     public DbSet<Category> Categories { get; set; }
     public DbSet<BlogPost> Posts { get; set; }
     public DbSet<BlogLike> BlogLikes { get; set; }
+    public DbSet<Subscriber> Subscribers { get; set; }
 }
