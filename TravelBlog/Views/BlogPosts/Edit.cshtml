@@ -1,15 +1,13 @@
-@using TravelBlog.Services.Interfaces
+@using TravelBlog.Enums
 @inject IImageService _ImageService
-
 @model TravelBlog.Models.BlogPost
-
 @{
     ViewData["Title"] = "Edit Blog Post";
 }
 
 <h2>Edit Blog Post</h2>
 
-<form asp-action="Edit" asp-controller="BlogPosts" method="post" enctype="multipart/form-data">
+<form asp-action="Edit" asp-controller="BlogPosts" asp-route-id="@Model.Id" method="post" enctype="multipart/form-data">
     <input type="hidden" asp-for="Id" />
     <div class="row">
         <div class="col-12 col-lg-4">
@@ -17,7 +15,7 @@
                 <label asp-for="ImageFile" class="control-label">Blog Post Image</label>
                 <div class="card mb-2" style="max-width: 100%;">
                     <div class="card-body text-center p-2">
-                        <img class="img-fluid rounded-3 border-1 border-secondary" style="max-height: 350px;" src="@_ImageService.ConvertByteArrayToFile(Model?.ImageData, Model?.ImageType, DefaultImage.BlogPostImage)" id="blogImage">
+                        <img class="img-fluid rounded-3 border-1 border-secondary" style="max-height: 350px;" src="@_ImageService.ConvertByteArrayToFile(Model?.ImageData, Model?.ImageType, TravelBlog.Enums.DefaultImage.BlogPostImage)" id="blogImage">
                     </div>
                 </div>
                 <input asp-for="ImageFile" type="file" class="form-control mt-3 pt-2 border-1 border-secondary" accept=".png,.jpg,.jpeg,.gif"
