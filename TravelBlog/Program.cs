@@ -23,6 +23,8 @@ builder.Services.AddRazorPages();
 builder.Services.AddScoped<IImageService, ImageService>();
 builder.Services.AddScoped<IBlogTagService, BlogTagService>();
 builder.Services.AddScoped<IBlogService, BlogService>();
+builder.Services.AddScoped<IEmailService, EmailService>();
+builder.Services.AddScoped<ISubscriberNotificationService, SubscriberNotificationService>();
 
 var app = builder.Build();
 app.UseCors("DefaultPolicy");

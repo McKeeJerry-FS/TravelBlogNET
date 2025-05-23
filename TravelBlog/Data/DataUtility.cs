@@ -45,8 +45,15 @@ public class DataUtility
         var configurationSvc = serviceProvider.GetRequiredService<IConfiguration>();
         var roleManagerSvc = serviceProvider.GetRequiredService<RoleManager<IdentityRole>>();
 
-        // align the database by checking the migrations
-        await dbContext.Database.MigrateAsync();
+        // Ensure database is created if it does not exist
+        await dbContext.Database.EnsureCreatedAsync();
+
+        // Only run migrations if there are any pending
+        var pendingMigrations = await dbContext.Database.GetPendingMigrationsAsync();
+        if (pendingMigrations.Any())
+        {
+            await dbContext.Database.MigrateAsync();
+        }
 
         // seed some data
         await SeedRolesAsync(roleManagerSvc);
