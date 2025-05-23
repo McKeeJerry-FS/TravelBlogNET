@@ -1,0 +1,21 @@
+@model IEnumerable<TravelBlog.Models.BlogPost>
+
+@{
+    ViewData["Title"] = "Blog Posts";
+}
+
+<h2>Blog Posts</h2>
+<div class="row">
+@foreach (var blog in Model)
+{
+    <div class="col-md-4 mb-4">
+        <div class="card h-100">
+            <div class="card-body">
+                <h5 class="card-title"><strong>@blog.Title</strong></h5>
+                <p class="card-text">@blog.Abstract</p>
+                <a href="#" class="btn btn-primary">Read More</a>
+            </div>
+        </div>
+    </div>
+}
+</div>

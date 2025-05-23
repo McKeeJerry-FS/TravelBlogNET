@@ -1,5 +1,7 @@
-﻿@using TravelBlog.Models
+﻿@using TravelBlog.Enums
+@using TravelBlog.Models
 @using TravelBlog.Services
+@using TravelBlog.Services.Interfaces
 @inject IImageService _ImageService
 @model BlogPost
 
@@ -32,8 +34,15 @@
                 <div class="col-12 col-lg-4">
                     <div class="form-group">
                         <label asp-for="ImageFile" class="control-label">Blog Post Image</label>
-                        <img class="img-fluid rounded-3 mb-2 border-1 border-secondary" style="max-height: 350px;" src="@_ImageService.ConvertByteArrayToFile(Model?.ImageData, Model?.ImageType, DefaultImage.BlogPostImage)" id="blogImage">
-                        <input asp-for="ImageFile" type="file" class="form-control mt-3 pt-2 border-1 border-secondary" accept=".png,.jpg,.jpeg,.gif"
+                        <div class="card mb-2" style="max-width: 100%;">
+                            <div class="card-body text-center p-2">
+                                <img class="img-fluid rounded-3 border-1 border-secondary" style="max-height: 350px;"
+                                    src="@_ImageService.ConvertByteArrayToFile(Model?.ImageData, Model?.ImageType, DefaultImage.BlogPostImage)"
+                                    id="blogImage">
+                            </div>
+                        </div>
+                        <input asp-for="ImageFile" type="file" class="form-control mt-3 pt-2 border-1 border-secondary"
+                            accept=".png,.jpg,.jpeg,.gif"
                             onchange="document.getElementById('blogImage').src = window.URL.createObjectURL(this.files[0])" />
                     </div>
                     <div class="form-group">
@@ -48,17 +57,20 @@
                     </div>
                     <div class="form-group">
                         <label asp-for="CategoryId" class="control-label"></label>
-                        <select asp-for="CategoryId" class="form-control border-1 border-secondary" asp-items="ViewBag.CategoryId"></select>
+                        <select asp-for="CategoryId" class="form-control border-1 border-secondary"
+                            asp-items="ViewBag.CategoryId"></select>
                     </div>
                     <div class="form-group">
                         <label asp-for="Tags" class="control-label"></label>
-                        <select name="Selected" class="form-control border-1 border-secondary" asp-items="ViewBag.Tags" size="5" multiple></select>
+                        <select name="Selected" class="form-control border-1 border-secondary"
+                            asp-items="ViewBag.Tags"></select>
                     </div>
                 </div>
                 <div class="col-12 col-lg-8">
                     <div class="form-group">
                         <label asp-for="Content" class="control-label"></label>
-                        <textarea asp-for="Content" class="editor form-control border-1 border-secondary" rows="25"></textarea>
+                        <textarea asp-for="Content" class="editor form-control border-1 border-secondary"
+                            rows="25"></textarea>
                         <span asp-validation-for="Content" class="text-danger"></span>
                     </div>
                 </div>
@@ -79,12 +91,14 @@
 </div>
 
 
- 
+
 <div>
     <a asp-action="Index">Back to List</a>
 </div>
 
-@{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+@{
+    await Html.RenderPartialAsync("_ValidationScriptsPartial");
+}
 @section Scripts {
     <!--CK Editor-->
     <script src="~/vendor/ckeditor5-40-2/build/ckeditor.js"></script>

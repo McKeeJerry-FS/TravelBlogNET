@@ -1,0 +1,77 @@
+@using TravelBlog.Services.Interfaces
+@inject IImageService _ImageService
+
+@model TravelBlog.Models.BlogPost
+
+@{
+    ViewData["Title"] = "Edit Blog Post";
+}
+
+<h2>Edit Blog Post</h2>
+
+<form asp-action="Edit" asp-controller="BlogPosts" method="post" enctype="multipart/form-data">
+    <input type="hidden" asp-for="Id" />
+    <div class="row">
+        <div class="col-12 col-lg-4">
+            <div class="form-group">
+                <label asp-for="ImageFile" class="control-label">Blog Post Image</label>
+                <div class="card mb-2" style="max-width: 100%;">
+                    <div class="card-body text-center p-2">
+                        <img class="img-fluid rounded-3 border-1 border-secondary" style="max-height: 350px;" src="@_ImageService.ConvertByteArrayToFile(Model?.ImageData, Model?.ImageType, DefaultImage.BlogPostImage)" id="blogImage">
+                    </div>
+                </div>
+                <input asp-for="ImageFile" type="file" class="form-control mt-3 pt-2 border-1 border-secondary" accept=".png,.jpg,.jpeg,.gif"
+                    onchange="document.getElementById('blogImage').src = window.URL.createObjectURL(this.files[0])" />
+            </div>
+            <div class="form-group">
+                <label asp-for="Title" class="control-label"></label>
+                <input asp-for="Title" class="form-control border-1 border-secondary" />
+                <span asp-validation-for="Title" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="Abstract" class="control-label"></label>
+                <textarea asp-for="Abstract" class="form-control border-1 border-secondary" rows="1"></textarea>
+                <span asp-validation-for="Abstract" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CategoryId" class="control-label"></label>
+                <select asp-for="CategoryId" class="form-control border-1 border-secondary" asp-items="ViewBag.CategoryId"></select>
+            </div>
+            <div class="form-group">
+                <label asp-for="Tags" class="control-label"></label>
+                <select name="Selected" class="form-control border-1 border-secondary" asp-items="ViewBag.Tags"></select>
+            </div>
+        </div>
+        <div class="col-12 col-lg-8">
+            <div class="form-group">
+                <label asp-for="Content" class="control-label"></label>
+                <textarea asp-for="Content" class="editor form-control border-1 border-secondary" rows="25"></textarea>
+                <span asp-validation-for="Content" class="text-danger"></span>
+            </div>
+        </div>
+    </div>
+    <div class="form-group d-flex justify-content-end">
+        <label class="form-check-label me-4 mt-2" asp-for="IsPublished">Publish?</label>
+        <input class="largerCheckbox me-20 border-1 border-secondary" type="checkbox" asp-for="IsPublished" />
+        <span asp-validation-for="IsPublished" class="text-danger"></span>
+    </div>
+    <div class="form-group d-flex justify-content-end">
+        <input type="submit" value="Save Changes" class="btn btn-primary" />
+    </div>
+</form>
+<div class="form-group mt-5 start-0">
+    <a asp-action="Index">Back</a>
+</div>
+
+@{await Html.RenderPartialAsync("_ValidationScriptsPartial");}
+@section Scripts {
+    <!--CK Editor-->
+    <script src="~/vendor/ckeditor5-40-2/build/ckeditor.js"></script>
+    <script>
+        ClassicEditor
+            .create(document.querySelector('.editor'))
+            .catch(error => {
+                console.error(error);
+            });
+    </script>
+}

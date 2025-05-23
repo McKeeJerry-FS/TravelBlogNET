@@ -1,11 +1,19 @@
 using System;
 using TravelBlog.Models;
 using TravelBlog.Services.Interfaces;
+using TravelBlog.Data; // Add this using directive
+using Microsoft.EntityFrameworkCore; // Add this using directive
 
 namespace TravelBlog.Services;
 
 public class BlogService : IBlogService
 {
+  private readonly ApplicationDbContext _context;
+  public BlogService(ApplicationDbContext context)
+  {
+    _context = context;
+  }
+
   public Task CreateBlogPostAsync(BlogPost blogPost, IEnumerable<int> selected)
   {
     throw new NotImplementedException();
@@ -36,9 +44,9 @@ public class BlogService : IBlogService
     throw new NotImplementedException();
   }
 
-  public Task<IEnumerable<BlogPost>> GetAllBlogPostsAsync()
+  public async Task<IEnumerable<BlogPost>> GetAllBlogPostsAsync()
   {
-    throw new NotImplementedException();
+    return await _context.Posts.ToListAsync();
   }
 
   public Task<IEnumerable<BlogPost>> GetAllDraftBlogPostsAsync(int? tagId)
