@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Yni/c05PmQU=",
+  "dgSpecHash": "NpejFhTqgaw=",
   "success": true,
   "projectFilePath": "I:\\Personally Created Project\\TravelBlog\\TravelBlog\\TravelBlog.csproj",
   "expectedPackageFiles": [
@@ -224,7 +224,9 @@
     "C:\\Users\\jmckee\\.nuget\\packages\\system.threading.timer\\4.3.0\\system.threading.timer.4.3.0.nupkg.sha512",
     "C:\\Users\\jmckee\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\jmckee\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
-    "C:\\Users\\jmckee\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512"
+    "C:\\Users\\jmckee\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
+    "C:\\Users\\jmckee\\.nuget\\packages\\x.pagedlist\\10.5.7\\x.pagedlist.10.5.7.nupkg.sha512",
+    "C:\\Users\\jmckee\\.nuget\\packages\\x.pagedlist.mvc.core\\10.5.7\\x.pagedlist.mvc.core.10.5.7.nupkg.sha512"
   ],
   "logs": []
 }

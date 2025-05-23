@@ -270,3 +270,5 @@ I:\Personally Created Project\TravelBlog\TravelBlog\obj\Debug\net7.0\refint\Trav
 I:\Personally Created Project\TravelBlog\TravelBlog\obj\Debug\net7.0\TravelBlog.pdb
 I:\Personally Created Project\TravelBlog\TravelBlog\obj\Debug\net7.0\TravelBlog.genruntimeconfig.cache
 I:\Personally Created Project\TravelBlog\TravelBlog\obj\Debug\net7.0\ref\TravelBlog.dll
+I:\Personally Created Project\TravelBlog\TravelBlog\bin\Debug\net7.0\X.PagedList.dll
+I:\Personally Created Project\TravelBlog\TravelBlog\bin\Debug\net7.0\X.PagedList.Mvc.Core.dll
